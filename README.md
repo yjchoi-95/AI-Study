@@ -40,7 +40,7 @@ Date | Paper | Topic | Presenter | Links | Needs futher modification
  |  |  |  |  |  
 2021.06.09 | [KDD 2020] USAD, unsupervised anomaly detection on multivariate time series | Anomaly Detection | 최영제 | | X
  |  |  |  |  |  
-2021.06.23 | [IEEE ICBD 2020] TadGAN, Time series anomaly detection using generative adversarial networks | Anomaly Detection | 최영제 | [review][https://github.com/yjchoi-95/AI-Study/blob/main/Anomaly%20Detection/%5BIEEE%20ICBD%202020%5D%20TadGAN%2C%20Time%20series%20anomaly%20detection%20using%20generative%20adversarial%20networks.pdf] | X
+2021.06.23 | [IEEE ICBD 2020] TadGAN, Time series anomaly detection using generative adversarial networks | Anomaly Detection | 최영제 | [review](https://github.com/yjchoi-95/AI-Study/blob/main/Anomaly%20Detection/%5BIEEE%20ICBD%202020%5D%20TadGAN%2C%20Time%20series%20anomaly%20detection%20using%20generative%20adversarial%20networks.pdf) | X
  |  |  |  |  |  
 2021.06.30 | [ICDM 2019] Neural feature search, A nueral architecture for automated feature enigneering | AutoFE | 최영제 | | X
 
