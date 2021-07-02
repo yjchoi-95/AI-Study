@@ -42,4 +42,35 @@ Date | Paper | Topic | Presenter | Links | Needs futher modification
 2021.06.23 | [IEEE ICBD 2020] TadGAN, Time series anomaly detection using generative adversarial networks | Anomaly Detection | 최영제 | [paper](https://arxiv.org/pdf/2009.07769.pdf)</br>[review](https://github.com/yjchoi-95/AI-Study/blob/main/Anomaly%20Detection/%5BIEEE%20ICBD%202020%5D%20TadGAN%2C%20Time%20series%20anomaly%20detection%20using%20generative%20adversarial%20networks.pdf) | X
  |  |  |  |  |  
 2021.06.30 | [ICDM 2019] Neural feature search, A nueral architecture for automated feature enigneering | AutoFE | 최영제 | [paper](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/NFS_ICDM_2019_camera_ready.pdf)</br>[review](https://github.com/yjchoi-95/AI-Study/blob/main/Auto%20FE/%5BICDM%202019%5D%20Neural%20feature%20search%2C%20A%20nueral%20architecture%20for%20automated%20feature%20enigneering.pdf) | X
+2020.04.23|	[NIPS 2015] Distilling the Knowledge in a Neural Network|	Knowledge Distillation|임진혁	| |	O
+ |  |  |  |  |  
+2020.05.20	|[KDD 2018] Ranking Distillation: Learning Compact Ranking Models With High Performance for Recommender System	| Recommeder System, Knowledge Distillation	|임진혁| |		O
+ |  |  |  |  |  
+2020.07.08 |	[ICML 2020]Rethinking Data Augmentation: Self-Supervision and Self-Distillation|	Augmentation, Self-Supervised Learning|	임진혁	| |	O
+ |  |  |  |  |  
+2020.07.23| 	[NIPS 2019] Knowledge Extraction with No Observable Data|	Knowledge Disillation|	임진혁| |		O
+ |  |  |  |  |  
+2021.02.24	|[NIPS 2020] Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs |	GNN, Self-Supervised Learning| 	임진혁| |		O
+ |  |  |  |  |  
+2021.03.04 |	[AISTATS 2017] Communication-Efficient Learning of Deep Networks from Decentralized Data	| Federate Learning	| 임진혁| |		O
+ |  |  |  |  |  
+2021.03.18	| [NIPS 2019] FedMD: Heterogenous Federated Learning via Model Distillation	| Federate Learning, Knowledge Distillation|	임진혁	| |	O
+ |  |  |  |  |  
+2021.03.25	| [ICML 2017] Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks	| Meta Learning, Few Shot| 	임진혁| |		O
+ |  |  |  |  |  
+2021.03.31	| [ICLR 20201] | DOMAIN GENERALIZATION WITH MIXSTYLE	Domain Generalization	| 임진혁| |		O
+ |  |  |  |  |  
+2021.04.07	| [arXiv 2021] Meta Pseudo Labels 	|Semi-Supervised Learning	|임진혁| |		O
+ |  |  |  |  |  
+2021.05.12	|[CVPR 2020] Attentive Weights Generation for Few Shot Learning via Information Maximization	|Few Shot, Attention	|임진혁| |		O
+ |  |  |  |  |  
+2021.05.25 |	[ICLR 2015] ADAM : A METHOD FOR STOCHASTIC OPTIMIZATION	|Optimization|	임진혁|		| O 
+ |  |  |  |  |  
+2021.06.16	|[ICML 2019] Zero-Shot Knowledge Distillation in Deep Networks	| Knowledge Distillation, Few Shot|	임진혁| |		O
+ |  |  |  |  |  
+2021.06.23 |	[arXiv 2018] Federated Meta-Learning with Fast Convergence and Efficient Communication |	Federate Learning, Meta Learning |	임진혁	| |	O
+ |  |  |  |  |  
+2021.06.30	|[ICLR 2021] BOIL: TOWARDS REPRESENTATION CHANGE FOR FEW-SHOT LEARNING	|Meta Learning, Few Shot|	임진혁| |		O
+ |  |  |  |  |  
+
 
