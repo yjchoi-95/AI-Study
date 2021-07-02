@@ -14,7 +14,7 @@
 Date | Paper | Topic | Presenter | Links | Needs futher modification
 ---- | ---- | ---- | ---- | ---- | ----
  |  |  |  |  |  
-2020.04.16 | [CVPR 2019] SpotTune, Transfer learning through adaptive fine-tuning | Vision, Transfer Learning | 최영제 | [paper](https://arxiv.org/pdf/1811.08737.pdf)</br>[review](https://github.com/yjchoi-95/AI-Study/blob/main/Transfer%20learning/%5BCVPR%202019%5D%20SpotTune%2C%20Transfer%20learning%20through%20adaptive%20fine-tuning.pdf) | X
+2020.04.16 | [CVPR 2019] SpotTune, Transfer learning through adaptive fine-tuning | Vision, Transfer Learning | 최영제 | [paper](https://arxiv.org/pdf/1811.08737.pdf)</br>[review](https://github.com/yjchoi-95/AI-Study/blob/main/Transfer%20learning/%5BCVPR%202019%5D%20SpotTune%2C%20Transfer%20learning%20through%20adaptive%20fine-tuning.pdf)</br>[blog](https://yjchoi-95.gitbook.io/paper-review/spottune-transfer-learning-through-adaptive-fine-tuning-cvpr-2019)| X
  |  |  |  |  |  
 2020.05.14 | [CVPR 2019] Class-Balanced Loss Based on Effective Number of Samples | Class Imbalance | 최영제 | [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf)</br>[review](https://github.com/yjchoi-95/AI-Study/blob/main/Class%20imbalance/%5BCVPR%202019%5D%20Class-Balanced%20Loss%20Based%20on%20Effective%20Number%20of%20Samples.pdf) | X
  |  |  |  |  |  
