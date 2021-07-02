@@ -13,8 +13,8 @@
 
 Date | Paper | Topic | Presenter | Links | Needs futher modification |
 ---- | ---- | ---- | ---- | ---- | ----
- |  |  | 
- |  |  | 
+ |  |  |  |  |  |
+2020.04.16 | [CVPR 2019] SpotTune, Transfer learning through adaptive fine-tuning | Vision, Transfer Learning | 최영제 | | X
  |  |  | 
  |  |  | 
  |  |  | 
