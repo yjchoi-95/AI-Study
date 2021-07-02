@@ -11,8 +11,26 @@
   
 ### Paper List  
 
-Date | Paper | Presenter | Links
----- | ---- | ---- | ----
+Date | Paper | Topic | Presenter | Links | Needs futher modification |
+---- | ---- | ---- | ---- | ---- | ----
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
  |  |  | 
  |  |  | 
 
