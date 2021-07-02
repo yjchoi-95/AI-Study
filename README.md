@@ -9,7 +9,7 @@
 최영제: Machine Learning, Reinforcement Learning, Auto Feature Engineering, Time Series Forecasting, Anomaly Detection
 </br></br>
 ### Paper List  
-</br>
+
 Date | Paper | Topic | Presenter | Links | Needs futher modification
 ---- | ---- | ---- | ---- | ---- | ----
  |  |  |  |  |  
