@@ -4,7 +4,6 @@
 일시 : 매주 수요일 9:00 PM  
 내용 : 논문 리뷰 및 연구 내용 발표  
 </br></br>
-  
 #### 2. 스터디 멤버  
 임진혁: Knowledge Distillation, Meta Learning, Few Shot Learning, Self-supervised Learning, Domain Generalization, Federate Learning  
 최영제: Machine Learning, Reinforcement Learning, Auto Feature Engineering, Time Series Forecasting, Anomaly Detection
