@@ -6,7 +6,8 @@
   
   
 2. 스터디 멤버  
-임진혁, 최영제
+임진혁  
+최영제: Machine Learning, Reinforcement Learning, Auto Feature Engineering
   
   
 ### Paper List  
