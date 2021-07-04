@@ -3,8 +3,9 @@
 인공지능 논문 스터디
 
 #### 1. 스터디 안내  
-일시 : 매주 수요일 9:00 PM  
-내용 : 논문 리뷰 및 연구 내용 발표
+일시: 매주 수요일 9:00 PM  
+내용: 연구 주제 발표 및 논문 리뷰
+목적: 다양한 분야의 최신 트렌드 공유를 통한 AI 지식 저변 확대
 </br></br>
 #### 2. 스터디 멤버  
 임진혁: Knowledge Distillation, Meta Learning, Few Shot Learning, Self-supervised Learning, Domain Generalization, Federate Learning  
